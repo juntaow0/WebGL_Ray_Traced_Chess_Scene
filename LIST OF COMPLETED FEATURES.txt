@@ -1,0 +1,18 @@
+Misc
+====
+1. Environment
+2. Chessboard
+3. Wood: four vertical sides of chessboard are wood
+
+Quadrics
+========
+1. Pawns: dark grey plastic
+2. Bishops: silver
+3. Kings: wood
+
+Lighting
+========
+1. Sun: rotating
+2. Gloria: three point lights on Pawns
+3. Silver: Bishops
+4. Ebony and Ivory: Pawns
